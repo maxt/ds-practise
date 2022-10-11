@@ -7,7 +7,7 @@
 SELECT CustomerName, Country, Address  from customers where Country='France' or country='Germany' or city='Madrid';
 ```
 ### результат:
-![img.png](img.png)
+![img_10.png](img_10.png)
 
 ## 2. Выберите топ 3 страны по количеству заказчиков, выведите их названия и количество записей.
 
