@@ -11,3 +11,5 @@ jupyter==1.0.0
 tqdm
 openpyxl
 sqlalchemy
+matplotlib
+plotly
