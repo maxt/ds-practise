@@ -13,3 +13,4 @@ openpyxl
 sqlalchemy
 matplotlib
 plotly
+seaborn
