@@ -15,3 +15,5 @@ matplotlib
 plotly
 seaborn
 xgboost
+lightgbm
+catboost
