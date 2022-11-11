@@ -14,3 +14,7 @@ sqlalchemy
 matplotlib
 plotly
 seaborn
+xgboost
+lightgbm
+catboost
+optuna
