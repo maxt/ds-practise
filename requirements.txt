@@ -18,3 +18,7 @@ xgboost
 lightgbm
 catboost
 optuna
+sympy
+torch
+torchvision
+torchaudio
