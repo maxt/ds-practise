@@ -18,6 +18,7 @@ xgboost
 lightgbm
 catboost
 optuna
+statsmodels
 sympy
 torch
 torchvision
